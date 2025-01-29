@@ -1,4 +1,4 @@
-# Prediksi Heregistrasi Calon Mahasiswa Baru dengan Random Forest
+# Student Re-Enrollment Using Random Forest Algorithm
 
 ## Deskripsi Proyek
 Sistem ini dikembangkan untuk memprediksi heregistrasi calon mahasiswa baru di Universitas Selamat Sri Batang menggunakan algoritma Random Forest. Model yang dibangun membantu pihak pengelola universitas dalam mengidentifikasi calon mahasiswa yang berpotensi tidak melakukan heregistrasi.
